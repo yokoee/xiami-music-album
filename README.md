@@ -1,8 +1,8 @@
 # Usage    
 
 ```
-git clone https://github.com/yokoee/xiami-music-album.git
-cd xiami-music-album
+git clone https://github.com/yokoee/xiami-music-cover.git
+cd xiami-music-cover
 npm install
 ```
 下载[ffmpeg](https://www.ffmpeg.org/download.html)并添加到环境变量   
